@@ -1,1 +1,1 @@
-new README file
+fix auth bug
